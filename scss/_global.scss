@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+  :root {
+    --btn-color: #D23166;
+  }
+  body {
+    font-family: "Roboto" , "Hind Madurai" sans-serif;
+    transition: all 0.3s;
+    scroll-behavior: smooth;
+  }
+  h1 {
+    font-family: "Fredoka" sans-serif;
+  }
+  .container {
+    width: 1125px;
+    padding: 0;
+    margin: 0 auto;
+  }
